@@ -1,0 +1,28 @@
+{
+  "name": "connect-over-phone-app",
+  "version": "1.0.0",
+  "description": "Allows users to connect over phone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhirath14/connect-over-phone-app.git"
+  },
+  "keywords": [
+    "connect",
+    "over",
+    "phone"
+  ],
+  "author": "Shubham Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhirath14/connect-over-phone-app/issues"
+  },
+  "homepage": "https://github.com/abhirath14/connect-over-phone-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
